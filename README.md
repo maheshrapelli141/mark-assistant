@@ -1,2 +1,2 @@
 # Mark Assistant
-Fully Customizatable assistant
+Fully Customizatable virtual assistant
