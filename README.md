@@ -1,1 +1,2 @@
-# mark-assistant
+# Mark Assistant
+Fully Customizatable assistant
